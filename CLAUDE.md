@@ -19,6 +19,8 @@ Rust, Python, R, and TypeScript by swapping the Zig-specific layer.
 - `scripts/zig-{api-surface,fitness}.zig`, `scripts/emit-sbom.zig` —
   Zig-native auxiliary programs
 - `doc/adr/` — binding decisions
+- `doc/TIGER_STYLE.md` — the portfolio policy: every rule names its
+  verifier, and policy text has one canonical home
 
 ## How
 
